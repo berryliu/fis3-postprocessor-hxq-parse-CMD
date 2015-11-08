@@ -1,0 +1,24 @@
+{
+  "name": "fis3-postprocessor-hxq-parse-cmd",
+  "version": "1.0.0",
+  "description": "好学区编译解析 CMD 并加入静态依赖，fis3 组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berryliu/fis3-postprocessor-hxq-parse-cmd.git"
+  },
+  "keywords": [
+    "fis3",
+    "cmd",
+    "hxq"
+  ],
+  "author": "berryliu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berryliu/fis3-postprocessor-hxq-parse-cmd/issues"
+  },
+  "homepage": "https://github.com/berryliu/fis3-postprocessor-hxq-parse-cmd#readme"
+}
